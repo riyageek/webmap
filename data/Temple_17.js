@@ -1,0 +1,1 @@
+var json_Temple_17 = {"type":"FeatureCollection","name":"Temple_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0},"geometry":{"type":"Point","coordinates":[85.693023455634147,23.606578243881991]}}]}
